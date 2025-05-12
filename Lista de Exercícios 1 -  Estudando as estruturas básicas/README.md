@@ -1,4 +1,4 @@
-# Lista de Exercícios 1 - Estudando as estruturas básicas - Curso Dev Fullstack Jr (+PraTI & Codifica)
+# Lista de Exercícios 1 - Estudando as estruturas básicas
 
 Este repositório contém 15 exercícios de lógica de programação escritos em JavaScript utilizando `prompt-sync` para entrada de dados pelo terminal.
 
