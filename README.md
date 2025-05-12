@@ -1,7 +1,7 @@
 # Curso Dev Fullstack Jr - PraTI & Codifica
 Repositório para armazenar aprendizado e exercícios do curso Dev Full Stack Jr. oferecida pela +praTi e Codifica Edu.
 
-## Pré-requisitos:
+## Pré-requisitos para executar os exercícios:
 
 * **VS Code (Visual Studio Code):** [https://code.visualstudio.com/](https://code.visualstudio.com/).
 * **Node.js:**[https://nodejs.org/](https://nodejs.org/).
