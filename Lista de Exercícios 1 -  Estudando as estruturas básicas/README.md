@@ -1,15 +1,13 @@
-# Lista de Exercícios 1 - Estudando as estruturas básicas - Curso Dev Fullstack Jr (+PraTI & Codifica)
+# Lista de Exercícios 1 - Estudando as estruturas básicas
 
 Este repositório contém 15 exercícios de lógica de programação escritos em JavaScript utilizando `prompt-sync` para entrada de dados pelo terminal.
 
 ## Como executar
 
-1. Instale o Node.js: https://nodejs.org
-2. Instale a dependência:
-   ```
-   npm install prompt-sync
-   ```
-3. Execute o exercício desejado em um terminal.
+1. **Abra o VS Code.**
+2. **Baixe os arquivos dos exercícios (exercícios.js ou os exercícios separados dentro da pasta)**
+3. **Abra os arquivos .js e execute-os no VSCode.**
+4. **A saída do programa será exibida no terminal. Em exercícios que requerem interação, o terminal aguardará sua entrada antes de prosseguir.**
 
 ## Lista de Exercícios
 
