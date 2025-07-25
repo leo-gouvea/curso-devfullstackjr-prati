@@ -1,4 +1,4 @@
-\# Lista de Exercícios 3 – Desenvolvimento Web Básico
+# Lista de Exercícios 3 – Desenvolvimento Web Básico
 
 
 
@@ -6,45 +6,45 @@ Este repositório contém exercícios práticos para fixação dos conceitos bá
 
 
 
-\- Estrutura HTML5 semântica
+- Estrutura HTML5 semântica
 
-\- Listas ordenadas e não ordenadas
+- Listas ordenadas e não ordenadas
 
-\- Formulários HTML
+- Formulários HTML
 
-\- Estilização básica com CSS e box model
+- Estilização básica com CSS e box model
 
-\- Seletores CSS, classes e IDs
+- Seletores CSS, classes e IDs
 
-\- Layouts com CSS Grid e Flexbox
+- Layouts com CSS Grid e Flexbox
 
-\- Implementação de menu hamburger responsivo
-
-
-
-\## Arquivos principais
+- Implementação de menu hamburger responsivo
 
 
 
-\- `index.html`: página com estrutura semântica, contendo header, main (com subseções) e footer.
-
-\- `listas.html`: listas de hobbies, passos de receita e navegação externa.
-
-\- `feedback.html`: formulário para envio de feedback com campos variados.
-
-\- `styles.css`: estilos para estrutura, cores, box model, seletores, Grid, Flexbox e responsividade.
+## Arquivos principais
 
 
 
-\## Como visualizar
+- `index.html`: página com estrutura semântica, contendo header, main (com subseções) e footer.
+
+- `listas.html`: listas de hobbies, passos de receita e navegação externa.
+
+- `feedback.html`: formulário para envio de feedback com campos variados.
+
+- `styles.css`: estilos para estrutura, cores, box model, seletores, Grid, Flexbox e responsividade.
 
 
 
-1\. Clone ou baixe o repositório.
+## Como visualizar
 
-2\. Abra os arquivos `.html` no navegador para ver o resultado dos exercícios.
 
-3\. Consulte o `styles.css` para entender as regras aplicadas.
+
+1. Clone ou baixe o repositório.
+
+2. Abra os arquivos `.html` no navegador para ver o resultado dos exercícios.
+
+3. Consulte o `styles.css` para entender as regras aplicadas.
 
 
 
