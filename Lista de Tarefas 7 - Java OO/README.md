@@ -7,8 +7,8 @@ Cada exercício foi estruturado em um projeto separado, com código legível, es
 
 Clone o repositório:
 ```
-git clone https://github.com/SEU-USUARIO/java-oo-lista7.git
-cd java-oo-lista7
+git clone https://github.com/leo-gouvea/curso-devfullstackjr-prati/tree/main/Lista%20de%20Tarefas%207%20-%20Java%20OO
+cd "Lista de Tarefas 7 - Java OO\src"
 ```
 
 ### Abra no IntelliJ IDEA
